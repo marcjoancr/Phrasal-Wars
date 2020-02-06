@@ -1,0 +1,49 @@
+[
+	{
+		"title": "Basic",
+		"levels": [
+			{
+				"title": "Level 1",
+				"options": [
+					{ "phrasal_verb": "Blow up", "meaning": "Explode" },
+					{
+						"phrasal_verb": "Break in on",
+						"meaning": "Interrupt (a conversation)"
+					},
+					{ "phrasal_verb": "Bring up", "meaning": "Mention a topic" },
+					{ "phrasal_verb": "Call off", "meaning": "Cancel" },
+					{ "phrasal_verb": "Call on", "meaning": "Ask to recite in class" },
+					{ "phrasal_verb": "Call on", "meaning": "Visit" },
+					{ "phrasal_verb": "Catch up with", "meaning": "Keep abreast" },
+					{ "phrasal_verb": "Check up on", "meaning": "Examine, investigate" }
+				]
+			},
+			{
+				"title": "Level 2",
+				"options": [
+					{
+						"phrasal_verb": "Get over",
+						"meaning": "Recover from sickness or disappointment"
+					},
+					{ "phrasal_verb": "Get rid of", "meaning": "Eliminate" },
+					{ "phrasal_verb": "Get through with", "meaning": "Finish" },
+					{
+						"phrasal_verb": "Give away",
+						"meaning": "Give something to someone else for free"
+					},
+					{ "phrasal_verb": "Give back", "meaning": "Return an object" },
+					{ "phrasal_verb": "Go over", "meaning": "Review" },
+					{ "phrasal_verb": "Go through", "meaning": "Use up; consume" },
+					{
+						"phrasal_verb": "Hand in",
+						"meaning": "Submit something (assignment)"
+					}
+				]
+			}
+		]
+	},
+	{
+		"title": "Advanced",
+		"levels": [{}]
+	}
+]

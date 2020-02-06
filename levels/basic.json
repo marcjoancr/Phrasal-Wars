@@ -1,0 +1,107 @@
+{
+	"level 1": [
+		{ "phrasal_verb": "Blow up", "meaning": "Explode" },
+		{ "phrasal_verb": "Break in on", "meaning": "Interrupt (a conversation)" },
+		{ "phrasal_verb": "Bring up", "meaning": "Mention a topic" },
+		{ "phrasal_verb": "Call off", "meaning": "Cancel" },
+		{ "phrasal_verb": "Call on", "meaning": "Ask to recite in class" },
+		{ "phrasal_verb": "Call on", "meaning": "Visit" },
+		{ "phrasal_verb": "Catch up with", "meaning": "Keep abreast" },
+		{ "phrasal_verb": "Check up on", "meaning": "Examine, investigate" },
+		{
+			"phrasal_verb": "Come up with",
+			"meaning": "To contribute (suggestion, money)"
+		},
+		{ "phrasal_verb": "Cut down on", "meaning": "Curtail (expenses)" },
+		{ "phrasal_verb": "Do over", "meaning": "Repeat a job" },
+		{ "phrasal_verb": "Drop out of", "meaning": "Leave school" },
+		{ "phrasal_verb": "Fill down", "meaning": "Fill to capacity" },
+		{ "phrasal_verb": "Fill out", "meaning": "Complete a form" },
+		{ "phrasal_verb": "Find out", "meaning": "Discover" },
+		{
+			"phrasal_verb": "Get along with",
+			"meaning": "Have a good relationship with"
+		},
+		{ "phrasal_verb": "Get away with", "meaning": "Escape blame" },
+		{
+			"phrasal_verb": "Get over",
+			"meaning": "Recover from sickness or disappointment"
+		},
+		{ "phrasal_verb": "Get rid of", "meaning": "Eliminate" },
+		{ "phrasal_verb": "Get through with", "meaning": "Finish" },
+		{
+			"phrasal_verb": "Give away",
+			"meaning": "Give something to someone else for free"
+		},
+		{ "phrasal_verb": "Give back", "meaning": "Return an object" },
+		{ "phrasal_verb": "Go over", "meaning": "Review" },
+		{ "phrasal_verb": "Go through", "meaning": "Use up; consume" },
+		{ "phrasal_verb": "Hand in", "meaning": "Submit something (assignment)" },
+		{
+			"phrasal_verb": "Hang up",
+			"meaning": "Put something on hook or receiver"
+		},
+		{ "phrasal_verb": "Hold up", "meaning": "Delay" },
+		{ "phrasal_verb": "Hold up", "meaning": "Rob" },
+		{ "phrasal_verb": "Keep up with", "meaning": "Maintain pace with" },
+		{ "phrasal_verb": "Leave out", "meaning": "Omit" },
+		{ "phrasal_verb": "Look after", "meaning": "Take care of" },
+		{ "phrasal_verb": "Look down on", "meaning": "Despise" },
+		{
+			"phrasal_verb": "Look forward to",
+			"meaning": "Anticipate with pleasure"
+		},
+		{ "phrasal_verb": "Look in on", "meaning": "Visit (somebody)" },
+		{ "phrasal_verb": "Look into", "meaning": "Investigate" },
+		{ "phrasal_verb": "Look out for", "meaning": "Be careful, anticipate" },
+		{ "phrasal_verb": "Look over", "meaning": "Examine, check" },
+		{ "phrasal_verb": "Look up", "meaning": "Search in a list" },
+		{ "phrasal_verb": "Look up to", "meaning": "Respect" },
+		{ "phrasal_verb": "Make out", "meaning": "Hear, understand" },
+		{ "phrasal_verb": "Make sure of", "meaning": "Verify" },
+		{ "phrasal_verb": "Make up", "meaning": "Invent a story or lie" },
+		{ "phrasal_verb": "Pick out", "meaning": "Choose" },
+		{
+			"phrasal_verb": "Pick up",
+			"meaning": "Lift something off something else"
+		},
+		{ "phrasal_verb": "Point out", "meaning": "Call attention to" },
+		{ "phrasal_verb": "Put away", "meaning": "Save or store" },
+		{ "phrasal_verb": "Put off", "meaning": "Postpone" },
+		{ "phrasal_verb": "Put on", "meaning": "Put clothing on the body" },
+		{ "phrasal_verb": "Put out", "meaning": "Extinguish" },
+		{ "phrasal_verb": "Put up with", "meaning": "Tolerate" },
+		{ "phrasal_verb": "Put up with", "meaning": "Tolerate" },
+		{ "phrasal_verb": "Read over", "meaning": "Peruse" },
+		{ "phrasal_verb": "Run across", "meaning": "Find by chance" },
+		{ "phrasal_verb": "Run into", "meaning": "Meet" },
+		{ "phrasal_verb": "Run out of", "meaning": "Exhaust supply" },
+		{ "phrasal_verb": "Run out of", "meaning": "Exhaust supply" },
+		{ "phrasal_verb": "Set up", "meaning": "To arrange, begin" },
+		{ "phrasal_verb": "Take after", "meaning": "Resemble" },
+		{ "phrasal_verb": "Take care of", "meaning": "Be responsible for" },
+		{ "phrasal_verb": "Take care of", "meaning": "Be responsible for" },
+		{ "phrasal_verb": "Take down", "meaning": "Make a written note" },
+		{ "phrasal_verb": "Take off", "meaning": "Remove clothing" },
+		{ "phrasal_verb": "Talk back to", "meaning": "Answer impolitely" },
+		{ "phrasal_verb": "Talk over", "meaning": "Discuss" },
+		{ "phrasal_verb": "Think back on", "meaning": "Recall" },
+		{ "phrasal_verb": "Think back on", "meaning": "Recall" },
+		{ "phrasal_verb": "Throw away", "meaning": "Discard" },
+		{
+			"phrasal_verb": "Try on",
+			"meaning": "Put clothing on to see if it fits"
+		},
+		{ "phrasal_verb": "Try out", "meaning": "Test" },
+		{ "phrasal_verb": "Turn down", "meaning": "Lower volume" },
+		{ "phrasal_verb": "Turn down", "meaning": "Reject" },
+		{ "phrasal_verb": "Turn off", "meaning": "Switch off electricity" },
+		{ "phrasal_verb": "Turn off", "meaning": "Repulse" },
+		{ "phrasal_verb": "Turn on", "meaning": "Switch on the electricity" },
+		{ "phrasal_verb": "Turn up", "meaning": "Raise the volume" },
+		{ "phrasal_verb": "Use up", "meaning": "Exhaust, use completely" },
+		{ "phrasal_verb": "Wait on", "meaning": "Serve" },
+		{ "phrasal_verb": "Walk out on", "meaning": "Abandon" }
+	],
+	"level 2": []
+}
