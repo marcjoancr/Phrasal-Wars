@@ -8,12 +8,13 @@ export default function LevelListScreen(props) {
 	return (
 		<View>
 			{levels.map((level) => {
-				const { title, options } = level;
+				const { title, quests } = level;
+				quests.score = 0;
 				return (
 					<Button
 						key={title}
 						title={title}
-						onPress={() => console.log(options)}
+						onPress={() => navigation.navigate('LevelDetail', quests)}
 					/>
 				);
 			})}

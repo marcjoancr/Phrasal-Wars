@@ -1,10 +1,10 @@
 [
 	{
-		"title": "Basic",
+		"title": "The Phrasal Strikes Back",
 		"levels": [
 			{
-				"title": "Level 1",
-				"options": [
+				"title": "Battleground 1",
+				"quests": [
 					{ "phrasal_verb": "Blow up", "meaning": "Explode" },
 					{
 						"phrasal_verb": "Break in on",
@@ -20,7 +20,7 @@
 			},
 			{
 				"title": "Level 2",
-				"options": [
+				"quests": [
 					{
 						"phrasal_verb": "Get over",
 						"meaning": "Recover from sickness or disappointment"
