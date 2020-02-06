@@ -1,13 +1,18 @@
 import React from 'react';
-import styles from './Styles';
-import {Text, View } from 'react-native';
+import SoloScreen from './components/SoloScreen';
+import HomeScreen from './components/HomeScreen';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from 'react-navigation-stack';
+
+const Stack = createStackNavigator();
 
 export default function App() {
 	return (
-		<View style={styles.container}>
-			<h1>HELLO WORLD</h1>
-		</View>
+		<NavigationContainer>
+			<Stack.Navigator initialRouteName='Home'>
+				<Stack.Screen name='Home' component={HomeScreen} />
+				<Stack.Screen name='Solo' component={SoloScreen} />
+			</Stack.Navigator>
+		</NavigationContainer>
 	);
 }
-
-
